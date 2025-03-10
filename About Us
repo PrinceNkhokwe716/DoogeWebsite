@@ -20,7 +20,46 @@
         <h3>Our Mission</h3>
         <p>Our mission is to provide exception service and quality products that meet the need of our customer</p>
         <h4>Our Team</h4>
-        <p> </p>
+        <p><div class="team-member">
+                <h2>Jedaiah lemwe</h2>
+                <p>CEO</p>
+                <p>jedaiah has over 20 years of experience in the industry and is passionate about leading our team to success.</p>
+            </div>
+            <div class="team-member">
+                <h2>Thoko mponda</h2>
+                <p>CTO</p>
+                <p>thoko is an expert in technology and innovation, driving our projects forward with her vision.</p>
+            </div>
+            <div class="team-member">
+                <h2> Sean chakana</h2>
+                <p>admistrative assistant</p>
+                <p>provide administrastive support to executives, managers and Team</p>
+            </div>
+            <div class="team-member">
+                <h2> Prince nkhokwe</h2>
+                <p>human resource manager</p>
+                <p>oversees recruitment, training and benefits administration</p>
+            </div>
+            <div class="team-member">
+                <h2> Dalitso luwan</h2>
+                <p>IT manager</p>
+                <p>provide administrastive support to executives, managers and Team</p>
+            </div>
+            <div class="team-member">
+                <h2>Michael Malonda-Thomas </h2>
+                <p>accountant</p>
+                <p>responsible for financial accounting, reporting, and analysis</p>
+            </div>
+            <div class="team-member">
+                <h2>Goodney uzoma </h2>
+                <p>customer service representative</p>
+                <p>responds to customer inquiries and resolves issue</p>
+            </div>
+            <div class="team-member">
+                <h2>Symon chimuwawa </h2>
+                <p>marketing mananger</p>
+                <p>develops for attracting and hiring new talent</p>
+            </div> </p>
         <h5>Contact Us</h5>
         <p>You can find us</p>
         <p>Contact: 0991926525</p>
@@ -31,3 +70,107 @@
     <p></p>
 </footer>
 </html>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+    }
+    header {
+        background: #333;
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+    }
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        padding: 20px;
+        background: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+        color: #333;
+    }
+
+
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+header {
+    background: #007BFF; 
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: blue; /
+    margin-bottom: 10px;
+}
+
+.team-member {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #007BFF; 
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+</style>
