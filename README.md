@@ -31,7 +31,6 @@
     <p></p>
 </footer>
 </html>
-
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -58,4 +57,3 @@
         color: #333;
     }
 </style>
-# Dodge Resellers (Modified)
