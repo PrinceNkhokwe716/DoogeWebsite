@@ -20,46 +20,46 @@
         <h3>Our Mission</h3>
         <p>Our mission is to provide exception service and quality products that meet the need of our customer</p>
         <h4>Our Team</h4>
-        <p><div class="team-member">
-                <h2>Jedaiah lemwe</h2>
-                <p>CEO</p>
-                <p>jedaiah has over 20 years of experience in the industry and is passionate about leading our team to success.</p>
-            </div>
-            <div class="team-member">
-                <h2>Thoko mponda</h2>
-                <p>CTO</p>
-                <p>thoko is an expert in technology and innovation, driving our projects forward with her vision.</p>
-            </div>
-            <div class="team-member">
-                <h2> Sean chakana</h2>
-                <p>admistrative assistant</p>
-                <p>provide administrastive support to executives, managers and Team</p>
-            </div>
-            <div class="team-member">
-                <h2> Prince nkhokwe</h2>
-                <p>human resource manager</p>
-                <p>oversees recruitment, training and benefits administration</p>
-            </div>
-            <div class="team-member">
-                <h2> Dalitso luwan</h2>
-                <p>IT manager</p>
-                <p>provide administrastive support to executives, managers and Team</p>
-            </div>
-            <div class="team-member">
-                <h2>Michael Malonda-Thomas </h2>
-                <p>accountant</p>
-                <p>responsible for financial accounting, reporting, and analysis</p>
-            </div>
-            <div class="team-member">
-                <h2>Goodney uzoma </h2>
-                <p>customer service representative</p>
-                <p>responds to customer inquiries and resolves issue</p>
-            </div>
-            <div class="team-member">
-                <h2>Symon chimuwawa </h2>
-                <p>marketing mananger</p>
-                <p>develops for attracting and hiring new talent</p>
-            </div> </p>
+        <p> <div class="team-member">
+            <h2>Jedai Manda</h2>
+            <p>CEO</p>
+            <p>jedaiah has over 20 years of experience in the industry and is passionate about leading our team to success.</p>
+        </div>
+        <div class="team-member">
+            <h2>Thoko mponda</h2>
+            <p>CTO</p>
+            <p>thoko is an expert in technology and innovation, driving our projects forward with her vision.</p>
+        </div>
+        <div class="team-member">
+            <h2> Sean chakana</h2>
+            <p>admistrative assistant</p>
+            <p>provide administrastive support to executives, managers and Team</p>
+        </div>
+        <div class="team-member">
+            <h2> Prince nkhokwe</h2>
+            <p>human resource manager</p>
+            <p>oversees recruitment, training and benefits administration</p>
+        </div>
+        <div class="team-member">
+            <h2> Dalitso luwan</h2>
+            <p>IT manager</p>
+            <p>provide administrastive support to executives, managers and Team</p>
+        </div>
+        <div class="team-member">
+            <h2>Michael Malonda-Thomas </h2>
+            <p>accountant</p>
+            <p>responsible for financial accounting, reporting, and analysis</p>
+        </div>
+        <div class="team-member">
+            <h2>Goodney uzoma </h2>
+            <p>customer service representative</p>
+            <p>responds to customer inquiries and resolves issue</p>
+        </div>
+        <div class="team-member">
+            <h2>Symon chimuwawa </h2>
+            <p>marketing mananger</p>
+            <p>Develops for attracting and hiring new talent</p>
+        </div></p>
         <h5>Contact Us</h5>
         <p>You can find us</p>
         <p>Contact: 0991926525</p>
@@ -70,6 +70,7 @@
     <p></p>
 </footer>
 </html>
+
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -79,7 +80,7 @@
         background-color: #f4f4f4;
     }
     header {
-        background: #333;
+        background: #0c0c0c;
         color: #fff;
         padding: 10px 0;
         text-align: center;
@@ -112,7 +113,7 @@ body {
 
 
 header {
-    background: #007BFF; 
+    background: #e0e2e4; 
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -151,7 +152,7 @@ section {
 }
 
 h2 {
-    color: blue; /
+    color: rgb(16, 16, 17); /
     margin-bottom: 10px;
 }
 
@@ -167,8 +168,8 @@ h2 {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #007BFF; 
-    color: white;
+    background: #0a0a0a; 
+    color: rgb(22, 21, 21);
     position: relative;
     bottom: 0;
     width: 100%;
