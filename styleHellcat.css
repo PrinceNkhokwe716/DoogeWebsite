@@ -111,8 +111,6 @@ header ul li a{
     text-align: center;
     
 }
-
-
 .car-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -141,7 +139,6 @@ header ul li a{
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-
 .testimonial {
     background-color: #fff3cd; 
     padding: 20px;
@@ -157,20 +154,19 @@ header ul li a{
     text-align: right;
 }
 
-
 form {
     background-color: white;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     width: fit-content;
-    margin: auto; 
+    margin: auto; /* Center the form */
 }
 
 input, textarea {
     width: calc(100% - 24px); 
     padding: 12px;
-    margin-bottom: 15px; 
+    margin-bottom: 15px;
 }
 
 button {
@@ -180,3 +176,9 @@ button {
     color: white; 
 }
 
+
+
+
+
+
+    
